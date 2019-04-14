@@ -1,0 +1,554 @@
+[
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @PalmerReport: Donald Trump's day so far:\n\n- William Barr testifies before Congress\n- Claims he'll release redacted Mueller report withi\u2026",
+    "cleanedText": "RT @PalmerReport: Donald Trump's day so far: - William Barr testifies before Congress - Claims he'll release redacted Mueller report withi\u2026",
+    "polarity": 0.1
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @ProudResister: Republicans betrayed their oath.\n\nSarah Sanders betrayed the truth.\n\nDevin Nunes betrayed his cow.\n\nCandace Owens betray\u2026",
+    "cleanedText": "RT @ProudResister: Republicans betrayed their oath. Sarah Sanders betrayed the truth. Devin Nunes betrayed his cow. Candace Owens betray\u2026",
+    "polarity": -0.13333333333333333
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING:\n1.THIS IS A COVER-UP.\n2\u2026",
+    "cleanedText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING: 1.THIS IS A COVER-UP. 2\u2026",
+    "polarity": 0.4
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @treasonstickers: Candace Owens is a black white supremacist.\n\nStephen Miller is a Jewish Nazi.\n\nDonald Trump gets praised by evangelica\u2026",
+    "cleanedText": "RT @treasonstickers: Candace Owens is a black white supremacist. Stephen Miller is a Jewish Nazi. Donald Trump gets praised by evangelica\u2026",
+    "polarity": -0.05555555555555555
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @duty2warn: \u201cDoes Donald Trump have dementia? We need to know: Psychologist.\u201d written by John Gartner https://t.co/kfi6oJP1Ez",
+    "cleanedText": "RT @duty2warn: \u201cDoes Donald Trump have dementia? We need to know: Psychologist.\u201d written by John Gartner https://t.co/kfi6oJP1Ez",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @PalmerReport: Donald Trump's day so far:\n\n- William Barr testifies before Congress\n- Claims he'll release redacted Mueller report withi\u2026",
+    "cleanedText": "RT @PalmerReport: Donald Trump's day so far: - William Barr testifies before Congress - Claims he'll release redacted Mueller report withi\u2026",
+    "polarity": 0.1
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @errollouis: \"If the House ever gets his returns, they should start with his golf write-offs. For instance, did you know Trump keeps eig\u2026",
+    "cleanedText": "RT @errollouis: \"If the House ever gets his returns, they should start with his golf write-offs. For instance, did you know Trump keeps eig\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "This is how vicious Donald Trump and Stephen Miller are getting. https://t.co/DsWbX0HIE5",
+    "cleanedText": "This is how vicious Donald Trump and Stephen Miller are getting. https://t.co/DsWbX0HIE5",
+    "polarity": -1.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @TheNoahRing: Raise your hand if you think Donald Trump should get a second term?",
+    "cleanedText": "RT @TheNoahRing: Raise your hand if you think Donald Trump should get a second term?",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @TeaPainUSA: We are witnessin' an orchestrated cover-up at every level of government to protect Donald Trump from his criminal, corrupt\u2026",
+    "cleanedText": "RT @TeaPainUSA: We are witnessin' an orchestrated cover-up at every level of government to protect Donald Trump from his criminal, corrupt\u2026",
+    "polarity": -0.4
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @krassenstein: Meghan McCain to Donald Trump after Trump's POW Tweet this morning:\n\n\"No one believes you care about prisoners of war\"\n\nT\u2026",
+    "cleanedText": "RT @krassenstein: Meghan McCain to Donald Trump after Trump's POW Tweet this morning: \"No one believes you care about prisoners of war\" T\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "cleanedText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "polarity": 0.3
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "@jaimemejia Like it! We would like to invite you to visit our caricatures. https://t.co/9D4djZqK8l",
+    "cleanedText": "Like it! We would like to invite you to visit our caricatures. https://t.co/9D4djZqK8l",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @ProudResister: Republicans betrayed their oath.\n\nSarah Sanders betrayed the truth.\n\nDevin Nunes betrayed his cow.\n\nCandace Owens betray\u2026",
+    "cleanedText": "RT @ProudResister: Republicans betrayed their oath. Sarah Sanders betrayed the truth. Devin Nunes betrayed his cow. Candace Owens betray\u2026",
+    "polarity": -0.13333333333333333
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @PalmerReport: Donald Trump currently has:\n\n- No Homeland Security Director\n\n- No Secret Service Director\n\n- No ICE Director\n\n- No Secre\u2026",
+    "cleanedText": "RT @PalmerReport: Donald Trump currently has: - No Homeland Security Director - No Secret Service Director - No ICE Director - No Secre\u2026",
+    "polarity": 0.1
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @chuckwoolery: IT'S RIDICULOUS THAT AN UNELECTED JUDGE CAN OVER RIDE THE HIGHEST ELECTED OFFICIAL. Donald Trump Slams Ninth Circuit Judg\u2026",
+    "cleanedText": "RT @chuckwoolery: IT'S RIDICULOUS THAT AN UNELECTED JUDGE CAN OVER RIDE THE HIGHEST ELECTED OFFICIAL. Donald Trump Slams Ninth Circuit Judg\u2026",
+    "polarity": -0.3333333333333333
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "cleanedText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "polarity": 0.3
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @krassenstein: Dear William Barr,\n\nJust remember, you were appointed \"Attorney General of the United States of America, not \"attorney fo\u2026",
+    "cleanedText": "RT @krassenstein: Dear William Barr, Just remember, you were appointed \"Attorney General of the United States of America, not \"attorney fo\u2026",
+    "polarity": 0.05000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @QuancyClayborne: Donald Trump is a narcissistic, pathological lying,  racist with the morals and brains of a jackass.\n\nIf I should not\u2026",
+    "cleanedText": "RT @QuancyClayborne: Donald Trump is a narcissistic, pathological lying, racist with the morals and brains of a jackass. If I should not\u2026",
+    "polarity": -0.5
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "Rep. Ilhan Omar calls White House adviser Stephen Miller a 'white nationalist' https://t.co/mSaEISYZPC",
+    "cleanedText": "Rep. Ilhan Omar calls White House adviser Stephen Miller a 'white nationalist' https://t.co/mSaEISYZPC",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "William Barr\u2019s Mueller cover-up reveals America\u2019s delusional dreamland about democracy | Will Bunch\u2026 https://t.co/YUC59CK0Bu",
+    "cleanedText": "William Barr\u2019s Mueller cover-up reveals America\u2019s delusional dreamland about democracy Will Bunch\u2026 https://t.co/YUC59CK0Bu",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @ChatByCC: @realDonaldTrump The best vote I ever cast was for Donald J Trump as President of the USA. \n\nThat vote will only be topped by\u2026",
+    "cleanedText": "RT @ChatByCC: The best vote I ever cast was for Donald J Trump as President of the USA. That vote will only be topped by\u2026",
+    "polarity": 0.5
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING:\n1.THIS IS A COVER-UP.\n2\u2026",
+    "cleanedText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING: 1.THIS IS A COVER-UP. 2\u2026",
+    "polarity": 0.4
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @GeorgePapa19: America: do you realize that the Australian government was colluding with the Comey FBI to sabotage and spy on Donald Tru\u2026",
+    "cleanedText": "RT @GeorgePapa19: America: do you realize that the Australian government was colluding with the Comey FBI to sabotage and spy on Donald Tru\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "cleanedText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "Trump is wrong. America isn\u2019t \u201cFULL!\u201d https://t.co/U82KRCJz5M via @voxdotcom",
+    "cleanedText": "Trump is wrong. America isn\u2019t \u201cFULL!\u201d https://t.co/U82KRCJz5M via @voxdotcom",
+    "polarity": -0.03125
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @omz__music: Here's a little song that I wrote for Donald Trump, if you retweet it, I follow you and we instantly become best friends!\u2026",
+    "cleanedText": "RT @omz__music: Here's a little song that I wrote for Donald Trump, if you retweet it, I follow you and we instantly become best friends!\u2026",
+    "polarity": 0.2708333333333333
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "@elnuevoherald Like it! We would like to invite you to visit our caricatures. https://t.co/9D4djZqK8l",
+    "cleanedText": "Like it! We would like to invite you to visit our caricatures. https://t.co/9D4djZqK8l",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @listentocarrie: Yooooooo Donald Trump is president \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 life is a fucking joke",
+    "cleanedText": "RT @listentocarrie: Yooooooo Donald Trump is president \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 life is a fucking joke",
+    "polarity": -0.6
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @JRehling: 3 Black churches have burned in 10 days in St. Landry Parish, Louisiana.\n\nIf Donald Trump didn't see white supremacists as hi\u2026",
+    "cleanedText": "RT @JRehling: 3 Black churches have burned in 10 days in St. Landry Parish, Louisiana. If Donald Trump didn't see white supremacists as hi\u2026",
+    "polarity": 0.11111111111111112
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @treasonstickers: Candace Owens is a black white supremacist.\n\nStephen Miller is a Jewish Nazi.\n\nDonald Trump gets praised by evangelica\u2026",
+    "cleanedText": "RT @treasonstickers: Candace Owens is a black white supremacist. Stephen Miller is a Jewish Nazi. Donald Trump gets praised by evangelica\u2026",
+    "polarity": -0.05555555555555555
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "@jsolomonReports Mr. Solomon, Donald Trump is evil and you just need to own that instead of blaming others. He is e\u2026 https://t.co/YGojHFkCVC",
+    "cleanedText": "Mr. Solomon, Donald Trump is evil and you just need to own that instead of blaming others. He is e\u2026 https://t.co/YGojHFkCVC",
+    "polarity": -0.2
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @RadioFreeTom: Trump's cognitive deficits seem worse. We need to know if he has dementia: Psychologist https://t.co/bWntH0wZII via @usat\u2026",
+    "cleanedText": "RT @RadioFreeTom: Trump's cognitive deficits seem worse. We need to know if he has dementia: Psychologist https://t.co/bWntH0wZII via @usat\u2026",
+    "polarity": -0.4
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" \n\n-- Donald Trump\u2026",
+    "cleanedText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" -- Donald Trump\u2026",
+    "polarity": -0.15000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING:\n1.THIS IS A COVER-UP.\n2\u2026",
+    "cleanedText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING: 1.THIS IS A COVER-UP. 2\u2026",
+    "polarity": 0.4
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "cleanedText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "polarity": 0.3
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @chuckwoolery: IT'S RIDICULOUS THAT AN UNELECTED JUDGE CAN OVER RIDE THE HIGHEST ELECTED OFFICIAL. Donald Trump Slams Ninth Circuit Judg\u2026",
+    "cleanedText": "RT @chuckwoolery: IT'S RIDICULOUS THAT AN UNELECTED JUDGE CAN OVER RIDE THE HIGHEST ELECTED OFFICIAL. Donald Trump Slams Ninth Circuit Judg\u2026",
+    "polarity": -0.3333333333333333
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "Pro-Trump Republicans plan big-money play for the Jewish vote in 2020 https://t.co/clNvDWLXsV via @politico",
+    "cleanedText": "Pro-Trump Republicans plan big-money play for the Jewish vote in 2020 https://t.co/clNvDWLXsV via @politico",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @DavidSh12575151: Donald Trump: 'Cages' for Child Migrants Were Built by Obama Admin https://t.co/X6sR9AArjw",
+    "cleanedText": "RT @DavidSh12575151: Donald Trump: 'Cages' for Child Migrants Were Built by Obama Admin https://t.co/X6sR9AArjw",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @BobbyEberle13: Mitt Romney is now calling on Trump to release his tax returns, which has been the leftist mob\u2019s talking point.\n\nReminde\u2026",
+    "cleanedText": "RT @BobbyEberle13: Mitt Romney is now calling on Trump to release his tax returns, which has been the leftist mob\u2019s talking point. Reminde\u2026",
+    "polarity": -0.05
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @girlsreallyrule: Trump just posted a campaign video for 2020 that uses prominent Democrats and is set to music from the Dark Night. Wit\u2026",
+    "cleanedText": "RT @girlsreallyrule: Trump just posted a campaign video for 2020 that uses prominent Democrats and is set to music from the Dark Night. Wit\u2026",
+    "polarity": 0.175
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @juliaioffe: Here\u2019s the profile, and the full quote. https://t.co/2c2U893bRa https://t.co/ioZ7K52Xwf",
+    "cleanedText": "RT @juliaioffe: Here\u2019s the profile, and the full quote. https://t.co/2c2U893bRa https://t.co/ioZ7K52Xwf",
+    "polarity": 0.35
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @IlhanMN: \ud83e\udd14 \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" ~Donald Trump, 201\u2026",
+    "cleanedText": "RT @IlhanMN: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" ~Donald Trump, 201\u2026",
+    "polarity": -0.15000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @loves_nra: Honestly..whether @realDonaldTrump does or does not reinstate family separation at the border is NOT the main issue here.\u2026",
+    "cleanedText": "RT @loves_nra: Honestly..whether does or does not reinstate family separation at the border is NOT the main issue here.\u2026",
+    "polarity": 0.16666666666666666
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @krassenstein: Meghan McCain to Donald Trump after Trump's POW Tweet this morning:\n\n\"No one believes you care about prisoners of war\"\n\nT\u2026",
+    "cleanedText": "RT @krassenstein: Meghan McCain to Donald Trump after Trump's POW Tweet this morning: \"No one believes you care about prisoners of war\" T\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" \n\n-- Donald Trump\u2026",
+    "cleanedText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" -- Donald Trump\u2026",
+    "polarity": -0.15000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" \n\n-- Donald Trump\u2026",
+    "cleanedText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" -- Donald Trump\u2026",
+    "polarity": -0.15000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "cleanedText": "RT @Will_Bunch: Barr's stunningly successful cover-up of Mueller Report still offers 1 Big Reveal: A world of true justice, hard-nosed repo\u2026",
+    "polarity": 0.3
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "@RockyMntnMike This eagle knows a turkey when he sees one: https://t.co/SAstwySflH",
+    "cleanedText": "This eagle knows a turkey when he sees one: https://t.co/SAstwySflH",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "Donald Trump must REALLY love The Dark Knight Rises. \u2018Cause he pretty much quoted Bane during the inauguration spee\u2026 https://t.co/rjfio4hygQ",
+    "cleanedText": "Donald Trump must REALLY love The Dark Knight Rises. \u2018Cause he pretty much quoted Bane during the inauguration spee\u2026 https://t.co/rjfio4hygQ",
+    "polarity": 0.2
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @krassenstein: Dear William Barr,\n\nJust remember, you were appointed \"Attorney General of the United States of America, not \"attorney fo\u2026",
+    "cleanedText": "RT @krassenstein: Dear William Barr, Just remember, you were appointed \"Attorney General of the United States of America, not \"attorney fo\u2026",
+    "polarity": 0.05000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @ChatByCC: Honestly, I thank God every day Donald J. Trump is our President.",
+    "cleanedText": "RT @ChatByCC: Honestly, I thank God every day Donald J. Trump is our President.",
+    "polarity": 0.6
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @kylegriffin1: Warner Bros. is already filing a copyright claim over Trump's 2020 video for using the \"Dark Knight Rises\" score, accordi\u2026",
+    "cleanedText": "RT @kylegriffin1: Warner Bros. is already filing a copyright claim over Trump's 2020 video for using the \"Dark Knight Rises\" score, accordi\u2026",
+    "polarity": -0.15
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "You stan for Donald Trump, ex-lib extraordinaire.\n\nMaybe sit this one out.\n\nhttps://t.co/TGBjBGDB7T",
+    "cleanedText": "You stan for Donald Trump, ex-lib extraordinaire. Maybe sit this one out. https://t.co/TGBjBGDB7T",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "cleanedText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @girlsreallyrule: Trump just posted a campaign video for 2020 that uses prominent Democrats and is set to music from the Dark Night. Wit\u2026",
+    "cleanedText": "RT @girlsreallyrule: Trump just posted a campaign video for 2020 that uses prominent Democrats and is set to music from the Dark Night. Wit\u2026",
+    "polarity": 0.175
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "cleanedText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @InspiringU2: Awareness Is Key.\n\nAnne Frank Centre lists 'alarming parallels' between Trump's America and Hitler's Germany.\n\nhttps://t.c\u2026",
+    "cleanedText": "RT @InspiringU2: Awareness Is Key. Anne Frank Centre lists 'alarming parallels' between Trump's America and Hitler's Germany. https://t.c\u2026",
+    "polarity": -0.05
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @MarALagoFuckOff: My husband had jury duty today. He was asked to name three people that he least admired. He named Donald Trump, Donald\u2026",
+    "cleanedText": "RT @MarALagoFuckOff: My husband had jury duty today. He was asked to name three people that he least admired. He named Donald Trump, Donald\u2026",
+    "polarity": -0.3
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @kylegriffin1: Warner Bros. is already filing a copyright claim over Trump's 2020 video for using the \"Dark Knight Rises\" score, accordi\u2026",
+    "cleanedText": "RT @kylegriffin1: Warner Bros. is already filing a copyright claim over Trump's 2020 video for using the \"Dark Knight Rises\" score, accordi\u2026",
+    "polarity": -0.15
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @ChatByCC: @realDonaldTrump The best vote I ever cast was for Donald J Trump as President of the USA. \n\nThat vote will only be topped by\u2026",
+    "cleanedText": "RT @ChatByCC: The best vote I ever cast was for Donald J Trump as President of the USA. That vote will only be topped by\u2026",
+    "polarity": 0.5
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @ProudResister: Republicans betrayed their oath.\n\nSarah Sanders betrayed the truth.\n\nDevin Nunes betrayed his cow.\n\nCandace Owens betray\u2026",
+    "cleanedText": "RT @ProudResister: Republicans betrayed their oath. Sarah Sanders betrayed the truth. Devin Nunes betrayed his cow. Candace Owens betray\u2026",
+    "polarity": -0.13333333333333333
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" \n\n-- Donald Trump\u2026",
+    "cleanedText": "RT @jaketapper: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" -- Donald Trump\u2026",
+    "polarity": -0.15000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @RealSaavedra: Sixth-grade student Bella Moscato was given a homework assignment where she was to write about who she considers a hero.\u2026",
+    "cleanedText": "RT @RealSaavedra: Sixth-grade student Bella Moscato was given a homework assignment where she was to write about who she considers a hero.\u2026",
+    "polarity": -0.05
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @IlhanMN: \ud83e\udd14 \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" ~Donald Trump, 201\u2026",
+    "cleanedText": "RT @IlhanMN: \"He's a war hero because he was captured. I like people that weren't captured, okay? I hate to tell you.\" ~Donald Trump, 201\u2026",
+    "polarity": -0.15000000000000002
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @mdpitts: Long Island mother Valerie Moscato claims her daughter, 11-year-old Bella Moscato, was not allowed to select President Donald\u2026",
+    "cleanedText": "RT @mdpitts: Long Island mother Valerie Moscato claims her daughter, 11-year-old Bella Moscato, was not allowed to select President Donald\u2026",
+    "polarity": -0.05
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @davidhogg111: You won\u2019t see Donald Trump tweeting about this terrorism because it\u2019s the kind he supports. https://t.co/IMwDZnYwaL",
+    "cleanedText": "RT @davidhogg111: You won\u2019t see Donald Trump tweeting about this terrorism because it\u2019s the kind he supports. https://t.co/IMwDZnYwaL",
+    "polarity": 0.6
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING:\n1.THIS IS A COVER-UP.\n2\u2026",
+    "cleanedText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING: 1.THIS IS A COVER-UP. 2\u2026",
+    "polarity": 0.4
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "cleanedText": "RT @SethAbramson: It is the fantasy of many of the world's worst criminals to INVESTIGATE AND IMPRISON those in law enforcement who dared h\u2026",
+    "polarity": -0.25
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @Republican0001: Tax Returns -\n\nHillary - \u201cRelease your Tax Returns Donald\u201d\n\nTrump - \u201cI emailed them to you\u201d",
+    "cleanedText": "RT @Republican0001: Tax Returns - Hillary \u201cRelease your Tax Returns Donald\u201d Trump \u201cI emailed them to you\u201d",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING:\n1.THIS IS A COVER-UP.\n2\u2026",
+    "cleanedText": "RT @all_eddy: I THINK I AM INTELLIGENT ENOUGH TO COME TO A CONCLUSION AFTER LISTENING TO AG WILLIAM BARR'S HEARING: 1.THIS IS A COVER-UP. 2\u2026",
+    "polarity": 0.4
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @mdpitts: Long Island mother Valerie Moscato claims her daughter, 11-year-old Bella Moscato, was not allowed to select President Donald\u2026",
+    "cleanedText": "RT @mdpitts: Long Island mother Valerie Moscato claims her daughter, 11-year-old Bella Moscato, was not allowed to select President Donald\u2026",
+    "polarity": -0.05
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @PalmerReport: Donald Trump currently has:\n\n- No Homeland Security Director\n\n- No Secret Service Director\n\n- No ICE Director\n\n- No Secre\u2026",
+    "cleanedText": "RT @PalmerReport: Donald Trump currently has: - No Homeland Security Director - No Secret Service Director - No ICE Director - No Secre\u2026",
+    "polarity": 0.1
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "cleanedText": "RT @StevenBeschloss: Remember when a cabinet member was an honorable person who recognized they have a responsibility to improve the lives\u2026",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @46Fuzym: Attorney General William Barr is protecting a Corrupt man in the WH.\n#CoverUp  https://t.co/NGcvK2NfXL https://t.co/86nmSIfhPc",
+    "cleanedText": "RT @46Fuzym: Attorney General William Barr is protecting a Corrupt man in the WH. #CoverUp https://t.co/NGcvK2NfXL https://t.co/86nmSIfhPc",
+    "polarity": -0.22499999999999998
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @eliehonig: Name one single action that William Barr has taken as AG that has shown one ounce of political independence from Donald Trum\u2026",
+    "cleanedText": "RT @eliehonig: Name one single action that William Barr has taken as AG that has shown one ounce of political independence from Donald Trum\u2026",
+    "polarity": 0.009523809523809526
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @nancylevine: @DonaldJTrumpJr @IlhanMN Hey Donald Trump Jr. - I\u2019m Jewish, my relatives were killed in the Holocaust. Stephen Miller is a\u2026",
+    "cleanedText": "RT @nancylevine: Hey Donald Trump Jr. I\u2019m Jewish, my relatives were killed in the Holocaust. Stephen Miller is a\u2026",
+    "polarity": -0.1
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @SoSAmerica2019: Rousseau warned us of the tyranny of the majority. What we really have now with Donald Trump and the Republican Party i\u2026",
+    "cleanedText": "RT @SoSAmerica2019: Rousseau warned us of the tyranny of the majority. What we really have now with Donald Trump and the Republican Party i\u2026",
+    "polarity": 0.2
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "Have you seen this 2017 Jussie Smollett music video? It\u2019s an intersectional BLM/Women\u2019s March/hijab anthem. Seen in\u2026 https://t.co/Tsj5V3rHDS",
+    "cleanedText": "Have you seen this 2017 Jussie Smollett music video? It\u2019s an intersectional BLM/Women\u2019s March/hijab anthem. Seen in\u2026 https://t.co/Tsj5V3rHDS",
+    "polarity": 0.0
+  },
+  {
+    "topic": "Donald Trump",
+    "rawText": "RT @chuckwoolery: IT'S RIDICULOUS THAT AN UNELECTED JUDGE CAN OVER RIDE THE HIGHEST ELECTED OFFICIAL. Donald Trump Slams Ninth Circuit Judg\u2026",
+    "cleanedText": "RT @chuckwoolery: IT'S RIDICULOUS THAT AN UNELECTED JUDGE CAN OVER RIDE THE HIGHEST ELECTED OFFICIAL. Donald Trump Slams Ninth Circuit Judg\u2026",
+    "polarity": -0.3333333333333333
+  }
+]
