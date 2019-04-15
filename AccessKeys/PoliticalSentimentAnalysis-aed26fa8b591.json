@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "politicalsentime-1555273164755",
+  "private_key_id": "aed26fa8b5918d44d5c02ff490c8708d73623078",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1iyLxbKBLWIYT\nRlQGqljmLYDamRUn1roU7t7iVYtvFIdmQ1Un2Fk0lnm8PqIO2vVPG0trqTlv1DSq\n4jbrxd0Lx/qBCihl9m7nKhcr0lmeoGaQM3U+uZAomse7pfNs7wcNUnxiEr0QtYX+\nvPMKFWVDI7jK8hMm020rLU1DDp/PVBX6tTOMm66Otz963/c82dlgy1ZyMrHhuBW2\nSnrHsPVRnSKxgSZ4jvXsR9UTFgZ0lvXS7xOMMeFyj1RzGhoglzko9NZ6DwxYizn0\naa1TB9xRwyLFM50Rew+/ijDRWuLz+VbhOdxdCdSSpZNSCVIoZ3yXQvEOHcF1MzL8\n1yUXCavzAgMBAAECggEADlfx6NVGTO2vmjJCTUyEPZt2xM63hzBF/4VoAsXzgFFE\n6WWEguNrGOaSs7bXIwlVvGxRpy31pcpEZwP8huBZOKcSOcPNsVCpLoZ60jGKdygB\nMn9+UfhjVXH1OfRAqWixS/Iqda05VuqgraHMKg3KtGVMImzB6p1l0LWBlzy+j6jY\npzgkrD5iXtx1jVmtVp1SAEmZ8KU0WU0Z0BPrIPbb90Wmf31jAZLwecRqRXo9UuRS\nCq/eZtC5cXMpKMo1/z/Z6lxuC1k9NSVHc4WwPwlmgeAU4KolqvAahT1kGf7FDkTI\n85PKgRCBaJm0YMRUciL/DXOXKgV5V9umjSY/0AbKkQKBgQD6tqqCIXvZNsiYf6Bk\nteyIvNuX9gTG5u3FZHIxW8WImTAxOdIEj6YHhPheOxbpaLABfbFN/EdtUgdaDaXL\n6c8TNh+KcIyC1B6JxkP5gY6+dg9JcSWAGIN+gCFxqPal5YM5jZx++QbOCKGnqCeW\nyZmck2kLYiQhjNvZM3V7h9TEDQKBgQC5XxhxUz32HCry1OvJfWboJMvwNZ8WEPdy\nX/97gpBPcgrEUml/GyTASmS4s/qfzwJ+6aoXGrAAucPeg74hQBWDenqz+Im6WEzR\nwoJ2k2TeacOImwAOSN+Q+8ea5jKl0VyLELw2F9MLoE6gGJecZdotHoRV62ynQfnj\nleyjz4wv/wKBgDbS2OhJ4CY4l5bZWb6MFaQ1ACPztUm1V8sxUtM+SSy8qtAo36cF\nrn24cwNQEouJy+sXjD0MbKYYKOllUJsNjq2ZyT3hrKgzMFZaV6To0skNUfxyVIv1\nUFPKOwX6t6zBSne8YrtVQ0qskoTx/W44uXGGvpKxrEr13WFaolcX9cvFAoGADwQ6\nGawRn+dGP2eqNidXd8TLVIkzevki4nwOWTYJdLYbUy4N58MOJhmgsSm7SsjdPeS1\n56s8yMJDsLnhZBYp5/27BOtEVPkkN/XW1b449J+CvIU56u5SVg9faxfs0Gv2YDmZ\n1ZP2f8GbvPJhDcVeeDs5ozAwHBiHIr2Zbue4RocCgYEA3X4xmPQED0ORIxoQ8Wi8\niuHmFy+DtzWJ4XNYSLVUk+bpPq1nhJFJ7105WWm6E3rRRQhwhJkTl73f2J+JtGyz\nII9O7k1nXcGbEiilzQT8yXIS5z7fO8rEl5s8xl4BBvVe+G1aO+ydKFC3Uwlwca4G\nr+++YkkCP+QrQaMIn2leSuM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "politicalsentimentanalysis@politicalsentime-1555273164755.iam.gserviceaccount.com",
+  "client_id": "105792982626692886310",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/politicalsentimentanalysis%40politicalsentime-1555273164755.iam.gserviceaccount.com"
+}
