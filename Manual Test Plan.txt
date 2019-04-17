@@ -1,0 +1,8 @@
+# 1. To begin testing, open a terminal, navigate to the project folder and type in "npm run dev" to open the local host
+server.
+# 2. While on the server, type in any result in the search bar and either click on the search button or press enter for
+the program to search its database to find tweets and facebook comments that contain the query in question. Use the tabs
+to navigate through tweets or comments.
+# 3. In the form next to the search bar, one can filter the results by positive, negative or neutral sentimentality.
+# 4. For data analysis, open up the plot.py file and press run to find data analysis (both numerically and plot) on the
+provided data, such as sentiment analysis, frequency of mentions for politicians, etc.
