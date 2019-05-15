@@ -4,15 +4,13 @@ from Source.Facebook.AnalyzedComment import AnalyzedComment
 
 class FacebookSentimentAnalysis(object):
 
-    def sentiment_analysis(self, query_comments):
+    def sentiment_analysis(self, post_topic, query_comments):
         analyzed_comments = []
 
         client = language.LanguageServiceClient()
 
         for comment in query_comments:
-
-            post_topic = comment.topic
-            raw_text = comment.text
+            raw_text = comment
             cleaned_text = self.clean_comment(raw_text)
 
             document = language.types.Document(
@@ -20,6 +18,7 @@ class FacebookSentimentAnalysis(object):
                 type=language.enums.Document.Type.PLAIN_TEXT)
 
             sentiment = client.analyze_sentiment(document).document_sentiment
+
             analyzed_comment = AnalyzedComment(raw_text, cleaned_text, sentiment.score, sentiment.magnitude, post_topic)
 
             if analyzed_comment not in analyzed_comments:
