@@ -1,28 +1,21 @@
 import praw
-import json
 import seaborn as sns
-#import nltk
-#nltk.download('vader_lexicon')
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
 sns.set(style='darkgrid', context='talk', palette='Dark2')
 
 
-reddit = praw.Reddit(client_id='qQo3bYJL6q7cgA',
-                     client_secret='polADCr-A1NF5PIbIRr5lHDuQv4',
-                     user_agent='shreyasharmaxo')
+class RedditAPI(object):
 
-headlines = set()
+    def __init__(self):
+        # Authenticate
+        self.reddit = praw.Reddit(client_id='qQo3bYJL6q7cgA',
+                                  client_secret='polADCr-A1NF5PIbIRr5lHDuQv4',
+                                  user_agent='shreyasharmaxo')
 
-for submission in reddit.subreddit('politics').new(limit=None):
-    headlines.add(submission.title)
+    def fetch_headlines(self, topic, limit=None):
+        headlines = set()
 
-sia = SentimentIntensityAnalyzer()
-results = []
+        for submission in self.reddit.subreddit('politics').new(limit=limit):
+            if topic.upper() in submission.title.upper():
+                headlines.add(submission.title)
 
-for line in headlines:
-    pol_score = sia.polarity_scores(line)
-    pol_score['headline'] = line
-    results.append(pol_score)
-
-with open('../../Data/RedditData/politicalheadlines.json', 'w') as fp:
-    json.dump(results, fp)
+        return headlines

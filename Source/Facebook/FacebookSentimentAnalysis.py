@@ -1,4 +1,4 @@
-from google.cloud import language
+from textblob import TextBlob
 from Source.Facebook.AnalyzedComment import AnalyzedComment
 
 
@@ -7,19 +7,13 @@ class FacebookSentimentAnalysis(object):
     def sentiment_analysis(self, post_topic, query_comments):
         analyzed_comments = []
 
-        client = language.LanguageServiceClient()
-
         for comment in query_comments:
             raw_text = comment
             cleaned_text = self.clean_comment(raw_text)
 
-            document = language.types.Document(
-                content=cleaned_text,
-                type=language.enums.Document.Type.PLAIN_TEXT)
+            polarity = self.polarity_of_comment(cleaned_text)
 
-            sentiment = client.analyze_sentiment(document).document_sentiment
-
-            analyzed_comment = AnalyzedComment(raw_text, cleaned_text, sentiment.score, sentiment.magnitude, post_topic)
+            analyzed_comment = AnalyzedComment(post_topic, raw_text, cleaned_text, polarity)
 
             if analyzed_comment not in analyzed_comments:
                 analyzed_comments.append(analyzed_comment)
@@ -30,3 +24,9 @@ class FacebookSentimentAnalysis(object):
     @staticmethod
     def clean_comment(comment):
         return comment.replace('\n', ' ')
+
+    # Analyze comment for polarity varying from -1 (negative) to 1 (positive)
+    @staticmethod
+    def polarity_of_comment(comment):
+        analysis = TextBlob(comment)
+        return analysis.polarity

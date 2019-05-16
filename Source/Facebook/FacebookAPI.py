@@ -35,7 +35,7 @@ class FacebookAPI(object):
         return query_comments
 
     @staticmethod
-    def fetch_fake_data():
+    def fetch_fake_comments():
         query_comments = []
 
         with open("../../Data/FacebookData/election.json", "r", encoding='utf8', errors='ignore') as json_file:

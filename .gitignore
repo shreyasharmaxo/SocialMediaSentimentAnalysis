@@ -3,4 +3,5 @@ __pycache__/**
 Source/__pycache__/**
 Source/Twitter/__pycache__/**
 Source/Facebook/__pycache__/**
+Source/Reddit/__pycache__/**
 AccessKeys/**

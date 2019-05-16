@@ -1,11 +1,11 @@
 from Source.AnalyzedObject import AnalyzedObject
 
 
-class AnalyzedTweet(AnalyzedObject):
+class AnalyzedHeadline(AnalyzedObject):
 
-    def __init__(self, topic, raw_text, cleaned_text, polarity):
+    def __init__(self, headline_topic, raw_text, cleaned_text, polarity):
         super().__init__(raw_text, cleaned_text, polarity)
-        self.topic = topic
+        self.topic = headline_topic
 
     # Convert polarity value to sentiment
     def get_sentiment(self):
